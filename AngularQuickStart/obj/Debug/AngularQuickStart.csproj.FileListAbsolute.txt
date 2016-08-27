@@ -1,0 +1,6 @@
+c:\Users\THD\Documents\Visual Studio 2015\Projects\AngularQuickStart\AngularQuickStart\bin\AngularQuickStart.dll.config
+c:\Users\THD\Documents\Visual Studio 2015\Projects\AngularQuickStart\AngularQuickStart\bin\AngularQuickStart.dll
+c:\Users\THD\Documents\Visual Studio 2015\Projects\AngularQuickStart\AngularQuickStart\bin\AngularQuickStart.pdb
+c:\Users\THD\Documents\Visual Studio 2015\Projects\AngularQuickStart\AngularQuickStart\obj\Debug\AngularQuickStart.dll
+c:\Users\THD\Documents\Visual Studio 2015\Projects\AngularQuickStart\AngularQuickStart\obj\Debug\AngularQuickStart.pdb
+C:\Users\THD\documents\visual studio 2015\Projects\AngularQuickStart\AngularQuickStart\obj\Debug\AngularQuickStart.csprojResolveAssemblyReference.cache

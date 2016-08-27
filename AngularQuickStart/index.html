@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+</head>
+<body ng-app="myApp">
+    <!--include source code-->
+    <script src="Scripts/angular.js"></script>
+    <script src="app.js"></script>
+    <script src="MyController.js"></script>
+    <!--include source code-->
+
+    <div ng-controller="MyController">
+        <input type="text" ng-model="vm.inputData" /> <br>
+        <input type="checkbox" ng-model="vm.isChecked" />
+        <button ng-click="vm.onToggleButtonClick()"> Toggle </button>
+    </div>
+</body>
+</html>
