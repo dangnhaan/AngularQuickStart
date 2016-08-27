@@ -11,7 +11,7 @@ class MyController {
         $scope.vm = this;
     }
 
-    private onToggleButtonClickHandler() {
+    private onToggleButtonClick() {
         this.isChecked = !this.isChecked;
     }
 }

@@ -162,3 +162,5 @@ $RECYCLE.BIN/
 .DS_Store
 .idea/
 
+AngularQuickStart/*.js.map
+AngularQuickStart/*.js
