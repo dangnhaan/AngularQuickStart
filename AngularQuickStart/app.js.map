@@ -1,1 +1,0 @@
-{"version":3,"file":"app.js","sourceRoot":"","sources":["app.ts"],"names":[],"mappings":"AAAA,IAAI,GAAG,GAAe,OAAO,CAAC,MAAM,CAAC,OAAO,EAAE,EAAE,CAAC,CAAC","sourcesContent":["var app: ng.IModule = angular.module(\"myApp\", []);"]}
